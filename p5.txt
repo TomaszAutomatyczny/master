@@ -1,2 +1,2 @@
-5 
-Zmiana na branch slave
+to jest zmiana na masterze
+
